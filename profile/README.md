@@ -1,5 +1,11 @@
 ## Hello! 👋
 
+Welcome to my [Frontend Mentor](https://www.frontendmentor.io/) repository collection. Here you'll find all of the projects I've built for Frontend Mentor!
+
+Feel free to follow me on there: [@james-work-account](https://www.frontendmentor.io/profile/james-work-account)
+
+##
+
 <div align="center">
 
 ### Some stats for my personal GitHub account
@@ -29,5 +35,3 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/james-whiteley-03041995/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="James Whiteley's LinkedIn Profile"></a>
 </div>
-
-
