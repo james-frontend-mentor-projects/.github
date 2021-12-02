@@ -2,7 +2,7 @@
 
 Welcome to my [Frontend Mentor](https://www.frontendmentor.io/) repository collection. Here you'll find all of the projects I've built for Frontend Mentor!
 
-Feel free to follow me on there: [@james-work-account](https://www.frontendmentor.io/profile/james-work-account)
+Please feel free to follow me on there: [@james-work-account](https://www.frontendmentor.io/profile/james-work-account)
 
 ##
 
