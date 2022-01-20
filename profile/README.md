@@ -29,9 +29,3 @@ Please feel free to follow me on there: [@james-work-account](https://www.fronte
     <img align="center" alt="" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   </a>
 </div>
-
-##
-  
-<div align="center">
-  <a href="https://www.linkedin.com/in/james-whiteley-03041995/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="James Whiteley's LinkedIn Profile"></a>
-</div>
